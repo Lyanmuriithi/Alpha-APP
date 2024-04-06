@@ -1,0 +1,14 @@
+.layout-header ul {
+  /* background-color: black; */
+  display: flex;
+  justify-content: center;
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+  
+}
+
+.layout-header li {
+  display: inline;
+  margin-right: 10px;
+}
